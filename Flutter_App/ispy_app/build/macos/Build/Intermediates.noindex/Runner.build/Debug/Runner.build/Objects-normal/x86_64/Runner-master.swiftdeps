@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6ffdf665e5ceda6d0a7e96271564c3bd2a31648b911218ac31e58626430de28f"
+build_start_time: [1682124139, 11734008]
+build_end_time: [1682124143, 686923980]
+inputs:
+  "/Users/jazminebarnett/Flutter_App/ispy_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1682124115, 481904506]
+  "/Users/jazminebarnett/Flutter_App/ispy_app/macos/Runner/AppDelegate.swift": [1680193944, 0]
+  "/Users/jazminebarnett/Flutter_App/ispy_app/macos/Runner/MainFlutterWindow.swift": [1680193944, 0]
